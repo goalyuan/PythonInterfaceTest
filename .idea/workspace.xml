@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="993cb0b3-ca02-43af-949a-ca0a3480a57f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PythonUnitTest/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PythonUnitTest/test1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PythonUnitTest/test2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PythonUnitTest/test3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PythonUnitTest/test4.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PythonUnitTest/test5.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PythonUnitTest/test_case/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PythonUnitTest/test_case/test_a.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PythonUnitTest/test_case/test_bbb/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PythonUnitTest/test_case/test_bbb/test_b.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PythonUnitTest/test_case/test_bbb/test_ccc/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PythonUnitTest/test_case/test_bbb/test_ccc/test_c.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PythonUnitTest/test_case/test_ddd/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PythonUnitTest/test_case/test_ddd/test_d.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PythonUnitTest/test_case1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PythonUnitTest/test_case2.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -364,7 +347,14 @@
       <option name="project" value="LOCAL" />
       <updated>1533734011449</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add README.md">
+      <created>1533991728698</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1533991728698</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
